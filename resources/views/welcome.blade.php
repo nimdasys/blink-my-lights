@@ -70,7 +70,7 @@
                 <color-selector></color-selector>
 
                 <div class="footer">
-                    <a href="https://github.com/mattstauffer/flash-my-lights">Source</a>
+                    <a href="https://github.com/mattstauffer/flash-my-lights" target="_new">Original Source From Matt Stauffer - Thanks!</a>
                 </div>
             </div>
         </div>
